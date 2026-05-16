@@ -30,7 +30,7 @@ STEP-8: Repeat the above steps to generate the entire cipher text.
 
 
 ## PROGRAM
-
+```
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
@@ -81,7 +81,7 @@ int main() {
 }
 
   
-
+```
 
 ## OUTPUT
 
